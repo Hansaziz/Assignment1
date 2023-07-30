@@ -1,4 +1,5 @@
 <?php
+//Farhans aziz hermansya-2440044251
 $host = 'localhost';
 $username = 'root';
 $password = '';
