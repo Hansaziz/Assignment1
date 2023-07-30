@@ -1,4 +1,5 @@
 <?php
+//Farhans aziz hermansya-2440044251
 $db = new PDO('mysql:host=localhost;dbname=dbasg', 'root', '');
 function handleRegistration() {
     global $db;
